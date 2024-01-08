@@ -1,4 +1,4 @@
-<h2 align="center">Kanokporn Supapon :p</h2>
+<h2 align="center">Kanokporn S.</h2>
 
 ###
 
