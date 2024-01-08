@@ -75,14 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/xavha/xavha/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
