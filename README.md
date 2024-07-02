@@ -1,11 +1,5 @@
 <h2 align="center">Kanokporn S.</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/207/207360.gif"  />
-</div>
-
 ### 📊 GitHub Stats:
 
 <div align="center">
